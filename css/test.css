@@ -1,0 +1,21 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	font-size: 30px;
+	color: teal;
+}
+h2{
+	font-size: 50px;
+	color: red;
+}
+.big{
+	font-size: 60px;
+}
+.startw{
+	text-transform: startw;
+
+}
+.big.startw{
+	color: greenyellow;
+}
