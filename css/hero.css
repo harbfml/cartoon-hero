@@ -6,6 +6,7 @@ body{
     line-height: 30px;
 }
 
+/* header style */
 header{
 	background-color: orange;
 	text-align: center;
@@ -33,6 +34,7 @@ main{
 	margin: 0 auto;
 	padding: 0 20px;
 }
+/* main style */
 main img{
 	max-width: 100%;
 }
@@ -44,6 +46,7 @@ a:hover{
 	background-color: #483a94;
 }
 
+/* Footer style */
 footer{
 	background-color: orange;
 	text-align: center;
